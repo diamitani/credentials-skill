@@ -1,3 +1,9 @@
+---
+name: credentials
+description: >
+  > **Security note:** This file contains live API credentials for Patrick's GTM stack. > Keep this file private. Do not log, echo, or expose these values in outputs shown to others. **Auth type:** Bearer JWT Use this skill when working with credentials tasks or workflows.
+---
+
 # GTM Architect — Credentials & Auth Config
 
 > **Security note:** This file contains live API credentials for Patrick's GTM stack.
